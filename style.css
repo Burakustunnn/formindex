@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    
+    text-align: center;
+    background-image: url(./clouds-g3b8b95fdd_1920.png);
+    
+}
+form{
+    display: inline-block;
+    background-color: bisque;
+    text-align: center;
+    padding: 20px;
+    background-color: #3EECAC;
+    background-image: linear-gradient(19deg, #3EECAC 0%, #EE74E1 100%);
+    width: fit-content;
+    margin-top: 60px;
+    border-radius: 15px;
+    color: azure;
+    box-shadow: 7px 7px 10px white, -7px -7px 10px white;
+
+}
+label{
+    display: inline-block;
+    text-align: left;
+    width: 100px;
+    margin-bottom: 25px;
+    font-size: 20px;
+    box-shadow: 7px 7px 10px rgb(255, 255, 255);
+    text-shadow: 3px 2px 2px red;
+}
+input{
+    display: inline-block;
+    width: 170px;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+    border-color: #3EECAC;
+    cursor: pointer;
+    background-color:#ffffff
+}
+h1{
+    margin-top: 30px;
+    color: #1ec508;
+    text-shadow: 7px 7px 11px  #ffffff;
+}
